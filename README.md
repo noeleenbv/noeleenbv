@@ -1,39 +1,50 @@
-<div style="border: 2px solid #e0e0e0; padding: 15px; border-radius: 5px; background-color: #f5f5dc;">
+<div align="center">
+  <img height="200" src="./images/header.gif" alt="header"  />
+</div>
 
-# Hello & Welcome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-I’m a creative and techincally minded person who connects design with development, crafting responsive, user-friendly designs and bringing them to life with code.  
+I’m a creative and technically minded person who enjoys connecting design with development, crafting responsive, user-friendly designs and bringing them to life with code.  
 
 </div>
+
+### Connect with Me:
+Feel free to reach out or check out my work:
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-red?style=for-the-badge)](mailto:noeleenbv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/noeleenbvs/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://noeleenbv.github.io/)
 
 ---
 
 <div style="border: 2px solid #e0e0e0; padding: 15px; border-radius: 5px; background-color: #f0f8ff;">
 
-## Skills & Tools I Work With:  
 
-| **Languages**                     | **Design Tools**                  | **Development Tools**            |
+### Skills and Tools I work With:
+
+| **Design Tools**                  | **Development Tools**            | **Languages**                     |
 |-----------------------------------|-----------------------------------|-----------------------------------|
-| <img src="https://cdn.simpleicons.org/html5/E34F26" width="30" alt="HTML5"> HTML5 | <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="30" alt="Photoshop"> Photoshop | <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" alt="VS Code"> VS Code |
-| <img src="https://cdn.simpleicons.org/css3/1572B6" width="30" alt="CSS3"> CSS3       | <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="30" alt="Illustrator"> Illustrator | <img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub"> GitHub |
-| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript"> JavaScript | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" alt="Figma"> Figma | <img src="https://cdn.simpleicons.org/git/F05032" width="30" alt="Git"> Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" alt="Photoshop"> Photoshop | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code"> VS Code | <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML"> HTML |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30" alt="Illustrator"> Illustrator | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg" width="30" alt="Adobe Dreamweaver"> Adobe Dreamweaver | <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS"> CSS |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="Figma"> Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" alt="Bootstrap"> Bootstrap | <img src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript"> JavaScript |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" alt="Canva"> Canva | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" width="30" alt="TortoiseGit"> TortoiseGit |                                   |
+
 
 ### About Me:
 - 📖 Currently reading and absorbing as much info about AI as I can.
 - 💻 My next venture I will be diving into **React** to create something exciting.  
 - 🎨 In my downtime I love dabbling in painting, acrylic pouring, resin crafts, sketching, SLR photography, digital art and AI art generation.
-- 💬 I like to chat about all things trending, AI, crypto, and SciFi movies / tv series.
-- ⚡ Fun fact: I have been using computers since about the age of 10 and one of the first games I played was Commander Keen.
+- 💬 I like to chat about all things trending and SciFi movies / tv series.
+- ⚡ Fun fact: From the age of 10 I started using a computer one of the first games I played was Commander Keen.
 
 ### AI Tools:
 LLMs that have sparked my interest and I have tried out:  
-- ChatGPT  
-- Perplexity  
-- Claude  
-- Grok  
-- Deepseek  
-- Lexica  
-- OpenArt  
-- Stable Diffusion  
+- <img src="./images/chatgpt-logo.png" width="30" alt="ChatGPT"> ChatGPT
+- <img src="./images/grok-logo.png" width="30" alt="Grok"> Grok  
+- <img src="./images/perplexity-logo.png" width="30" alt="Perplexity"> Perplexity
+- <img src="./images/claude-logo.png" width="30" alt="Claude"> Claude 
+- <img src="./images/deepseek-logo.png" width="30" alt="Deepseek"> Deepseek  
+- <img src="./images/lexica-logo.png" width="30" alt="Lexica"> Lexica  
+- <img src="./images/openart-logo.png" width="30" alt="OpenArt"> OpenArt  
+- <img src="./images/stablediffusion-logo.png" width="30" alt="Stable Diffusion">Stable Diffusion  
 
 </div>
 
@@ -49,12 +60,4 @@ LLMs that have sparked my interest and I have tried out:
 
 ---
 
-<div style="border: 2px solid #e0e0e0; padding: 15px; border-radius: 5px; background-color: #f5f5dc;">
 
-## Connect With Me:  
-Feel free to reach out or check out my work:  
-- 📧 **[Email Me](mailto:your.email@example.com)**  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/yourusername/)**  
-- 🌐 **[Portfolio](https://yourportfolio.com)**  
-
-</div>
