@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="210" src="./images/header.gif" alt="header"  />
+  <img height="200" src="./images/header.gif" alt="header"  />
 </div>
 
 
@@ -27,14 +27,14 @@ Feel free to reach out or check out my work:
 ### AI Tools:
 LLMs that have sparked my interest and I have tried out: 
 <div align="left">
-  <img src="./images/chatgpt-logo.png" width="40" alt="ChatGPT">
-  <img src="./images/grok-logo.png" width="40" alt="Grok"> 
-  <img src="./images/perplexity-logo.png" width="40" alt="Perplexity">
-  <img src="./images/claude-logo.png" width="40" alt="Claude">
-  <img src="./images/deepseek-logo.png" width="40" alt="Deepseek">  
-  <img src="./images/lexica-logo.png" width="40" alt="Lexica">
-  <img src="./images/openart-logo.png" width="40" alt="OpenArt">
-  <img src="./images/stablediffusion-logo.png" width="40" alt="Stable Diffusion">
+  <img src="./images/chatgpt-logo.png" height="30" alt="ChatGPT">
+  <img src="./images/grok-logo.png" height="30" alt="Grok"> 
+  <img src="./images/perplexity-logo.png" height="30" alt="Perplexity">
+  <img src="./images/claude-logo.png" height="30" alt="Claude">
+  <img src="./images/deepseek-logo.png" height="30" alt="Deepseek">  
+  <img src="./images/lexica-logo.png" height="30" alt="Lexica">
+  <img src="./images/openart-logo.png" height="30" alt="OpenArt">
+  <img src="./images/stablediffusion-logo.png" height="30" alt="Stable Diffusion">
 </div>
 
 ---
